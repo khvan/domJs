@@ -139,3 +139,7 @@ html * {
   width: 5rem;
   flex-shrink: 0;
 }
+
+.hidden {
+  display: none;
+}
